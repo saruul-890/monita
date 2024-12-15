@@ -9,7 +9,7 @@ export default function SceneSetup({isMobile}) {
         enablePan={false}
         autoRotate
         autoRotateSpeed={5}
-        zoomSpeed={13}
+        zoomSpeed={1}
         maxDistance={isMobile ? 8 : 85.5}
         maxPolarAngle={Math.PI / 2}
         minDistance={0.2}
