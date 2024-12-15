@@ -37,7 +37,7 @@ export default function App() {
           <PositionalAudio
             ref={audioRef}
             loop
-            url='/music.mp3'
+            url='/Wham - Last Christmas (Official Video)_[_YouConvert.net_].mp3'
             distance={0.05}
             autoplay={ready}
             key={ready}
