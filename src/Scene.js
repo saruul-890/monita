@@ -8,8 +8,8 @@ export default function SceneSetup({isMobile}) {
       <OrbitControls
         enablePan={false}
         autoRotate
-        autoRotateSpeed={0.08}
-        zoomSpeed={0.1}
+        autoRotateSpeed={1}
+        zoomSpeed={1}
         maxDistance={isMobile ? 8 : 85.5}
         maxPolarAngle={Math.PI / 2}
         minDistance={0.2}
