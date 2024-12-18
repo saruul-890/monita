@@ -204,7 +204,7 @@ function Texts() {
           textAlign='center'
           position={[0, 10.8, 0]}
           fontSize='0.08'>
-          Саруулаас
+          From Saruul
         </Text>
       </Billboard>
     </>
