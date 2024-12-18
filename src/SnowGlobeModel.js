@@ -172,7 +172,7 @@ function Texts() {
         size={1}
         font='/Inter_Bold.json'
         position={[-4, 3.3, 10]}>
-        Мөнхжинд
+        Шинэ оны мэнд
         <meshPhysicalMaterial
           metalness={0.2}
           roughness={0.2}
@@ -204,7 +204,7 @@ function Texts() {
           textAlign='center'
           position={[0, 10.8, 0]}
           fontSize='0.08'>
-          From Monita
+          Саруулаас
         </Text>
       </Billboard>
     </>
