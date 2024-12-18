@@ -187,7 +187,7 @@ function Texts() {
           position={[0, 12.45, 0]}
           fontSize='0.35'
           lineHeight={0.85}>
-          You are really a wonderful and beautiful girl. {"\n\n"}I told you, you
+          You are really a wonderful and beautiful. {"\n\n"}I told you, you
           have such a lovely smile, so always smile and stay happy
         </Text>
         <Text
